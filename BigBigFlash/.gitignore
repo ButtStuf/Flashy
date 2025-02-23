@@ -188,3 +188,4 @@ NTUSER.DAT*
 .foundry/
 .rustup/
 .cargo/
+lib/openzeppelin-contracts/
