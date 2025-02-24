@@ -1,0 +1,195 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+ntuser.dat*
+NTUSER.DAT*
+
+# Ignore system folders
+/OneDrive/
+/AppData/
+/anaconda3/
+/node_modules/
+/VirtualBox/
+/.conda/
+/.venv/
+/cache/
+/python_history
+.gradio/
+.vscode/
+.muse/
+/solidity-ide/
+
+# Ignore foundry, cargo, and Rust
+.foundry/
+.rustup/
+.cargo/
+
+# Ignore unnecessary generated files
+*.log
+*.tmp
+# Ignore system files
+.DS_Store
+Thumbs.db
+ntuser.dat*
+NTUSER.DAT*
+
+# Ignore OS folders
+/OneDrive/
+/AppData/
+/anaconda3/
+/node_modules/
+/VirtualBox/
+/.conda/
+/.venv/
+/.cache/
+/.python_history
+.gradio/
+.vscode/
+.muse/
+.solidity-ide/
+
+# Ignore foundry-related files
+.foundry/
+.rustup/
+.cargo/
+# Ignore system files
+.DS_Store
+Thumbs.db
+ntuser.dat*
+NTUSER.DAT*
+
+# Ignore OS folders
+/OneDrive/
+/AppData/
+/anaconda3/
+/node_modules/
+/VirtualBox/
+/.conda/
+/.venv/
+/.cache/
+/.python_history
+.gradio/
+.vscode/
+.muse/
+.solidity-ide/
+
+# Ignore foundry-related files
+.foundry/
+.rustup/
+.cargo/
+# Ignore system files
+.DS_Store
+Thumbs.db
+ntuser.dat*
+NTUSER.DAT*
+
+
+# Ignore OS folders
+/OneDrive/
+/AppData/
+/anaconda3/
+/node_modules/
+/VirtualBox/
+/.conda/
+/.venv/
+/.cache/
+/.python_history
+.gradio/
+.vscode/
+.muse/
+.solidity-ide/
+
+# Ignore foundry-related files
+.foundry/
+.rustup/
+.cargo/
+# Ignore system files
+.DS_Store
+Thumbs.db
+ntuser.dat*
+NTUSER.DAT*
+
+# Ignore OS folders
+/OneDrive/
+/AppData/
+/anaconda3/
+/node_modules/
+/VirtualBox/
+/.conda/
+/.venv/
+/.cache/
+/.python_history
+.gradio/
+.vscode/
+.muse/
+.solidity-ide/
+
+# Ignore foundry-related files
+.foundry/
+.rustup/
+.cargo/
+node_modules
+.env
+
+# Hardhat files
+/cache
+/artifacts
+
+# TypeChain files
+/typechain
+/typechain-types
+
+# solidity-coverage files
+/coverage
+/coverage.json
+
+# Hardhat Ignition default folder for deployments against a local node
+ignition/deployments/chain-31337
+
+node_modules
+.env
+
+# Hardhat files
+/cache
+/artifacts
+
+# TypeChain files
+/typechain
+/typechain-types
+
+# solidity-coverage files
+/coverage
+/coverage.json
+
+# Hardhat Ignition default folder for deployments against a local node
+ignition/deployments/chain-31337
+# Ignore system files
+.DS_Store
+Thumbs.db
+ntuser.dat*
+NTUSER.DAT*
+
+# Ignore OS folders
+/OneDrive/
+/AppData/
+/anaconda3/
+/node_modules/
+/VirtualBox/
+/.conda/
+/.venv/
+/.cache/
+/.python_history
+.gradio/
+.vscode/
+.muse/
+.solidity-ide/
+
+# Ignore foundry-related files
+.foundry/
+.rustup/
+.cargo/
+lib/openzeppelin-contracts/
+node_modules/
+lib/
+foundry.toml
+remappings.txt
