@@ -190,6 +190,5 @@ NTUSER.DAT*
 .cargo/
 lib/openzeppelin-contracts/
 node_modules/
-lib/
 foundry.toml
 remappings.txt
